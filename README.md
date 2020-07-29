@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinmu333)](https://github.com/jinmu333/github-readme-stats)
+
+![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=onedark)
+
+
 <!--
 **jinmu333/jinmu333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
