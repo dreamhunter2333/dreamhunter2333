@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi
+
+![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinmu333)](https://github.com/jinmu333/github-readme-stats)
-
-![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=onedark)
 
 
 <!--
