@@ -1,8 +1,8 @@
 ### Hi
 
-![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=onedark)
+![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinmu333&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinmu333&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
