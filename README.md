@@ -1,9 +1,12 @@
 ### Hi
 
+I'm Dreamhunter
+
+- 🌱 I’m currently learning `vue`, `golang`, `java`, `python`
+- 💬 [Dreamhunter Blog](https://jcstaff.club/)
+- 📫 [Dreamhunter resume](https://hacknical.com/jinmu333/resume?locale=zh)
+
 ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinmu333&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **jinmu333/jinmu333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
