@@ -4,7 +4,6 @@ I'm Dreamhunter
 
 - 🌱 I’m currently learning `vue`, `golang`, `java`, `python`
 - 💬 [Dreamhunter Blog](https://jcstaff.club/)
-- 📫 [Dreamhunter resume](https://hacknical.com/jinmu333/resume?locale=zh)
 
 ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
 
@@ -21,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 [Dreamhunter resume](https://hacknical.com/jinmu333/resume?locale=zh)
 -->
