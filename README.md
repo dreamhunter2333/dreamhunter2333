@@ -6,6 +6,71 @@ I'm Dreamhunter
 - 💬 [Dreamhunter Blog](https://jcstaff.club/)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 594 Contributions in the Year 2021
+ > 
+> 📦 2.9 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 70 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.27% 
+🌆 Daytime    189 commits    ███████░░░░░░░░░░░░░░░░░░   31.14% 
+🌃 Evening    267 commits    ███████████░░░░░░░░░░░░░░   43.99% 
+🌙 Night      119 commits    █████░░░░░░░░░░░░░░░░░░░░   19.6%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
+Tuesday      72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Wednesday    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
+Thursday     105 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+Friday       57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+Saturday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Sunday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   16 repos            ████████░░░░░░░░░░░░░░░░░   34.04% 
+Shell                    6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.77% 
+Smali                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.38% 
+AutoHotkey               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jinmu333/jinmu333/master/charts/bar_graph.png) 
+
+
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
