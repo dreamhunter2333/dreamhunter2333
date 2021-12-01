@@ -5,6 +5,9 @@ I'm Dreamhunter
 - 🌱 I’m currently learning `vue`, `golang`, `java`, `python`
 - 💬 [Dreamhunter Blog](https://jcstaff.club/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinmu333&hide=smali,html,javascript&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
