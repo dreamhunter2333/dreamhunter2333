@@ -82,10 +82,10 @@ AutoHotkey               2 repos             █░░░░░░░░░░�
  Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 
-![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
+<!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinmu333&hide=smali,html,javascript&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 <!--
 **jinmu333/jinmu333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
