@@ -10,7 +10,7 @@ I'm Dreamhunter
 
 **🐱 My GitHub Data** 
 
-> 🏆 627 Contributions in the Year 2021
+> 🏆 629 Contributions in the Year 2021
  > 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
@@ -33,9 +33,9 @@ I'm Dreamhunter
 
 ```text
 Monday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
-Tuesday      74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Tuesday      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
 Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-Thursday     107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
+Thursday     106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.8% 
 Friday       58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
 Saturday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
 Sunday       124 commits    █████░░░░░░░░░░░░░░░░░░░░   19.65%
@@ -70,7 +70,7 @@ AutoHotkey               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jinmu333/jinmu333/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/12/2021
+ Last Updated on 21/12/2021
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
