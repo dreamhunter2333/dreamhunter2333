@@ -10,7 +10,7 @@ I'm Dreamhunter
 
 **🐱 My GitHub Data** 
 
-> 🏆 718 Contributions in the Year 2021
+> 🏆 719 Contributions in the Year 2021
  > 
 > 📦 2.9 MB Used in GitHub's Storage 
  > 
@@ -36,8 +36,8 @@ Monday       132 commits    ████░░░░░░░░░░░░░�
 Tuesday      88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
 Wednesday    87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
 Thursday     114 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
-Saturday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.99% 
+Friday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
+Saturday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
 Sunday       138 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.25%
 
 ```
@@ -70,7 +70,7 @@ AutoHotkey               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jinmu333/jinmu333/master/charts/bar_graph.png) 
 
 
- Last Updated on 24/12/2021
+ Last Updated on 25/12/2021
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
