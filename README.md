@@ -70,7 +70,7 @@ AutoHotkey               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/jinmu333/jinmu333/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
