@@ -3,7 +3,7 @@
 I'm Dreamhunter
 
 - 🌱 I’m currently learning `vue`, `golang`, `java`, `python`
-- 💬 [Dreamhunter Blog](https://jcstaff.club/)
+- 💬 [Dreamhunter Blog](https://dreamhunter2333.com/)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
