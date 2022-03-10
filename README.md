@@ -13,8 +13,6 @@ I'm Dreamhunter
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -33,7 +31,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2022 12:35:22 UTC
+ Last Updated on 10/03/2022 12:47:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
