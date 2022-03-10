@@ -1,6 +1,4 @@
-### Hi
-
-I'm Dreamhunter
+### Hi I'm Dreamhunter
 
 - 🌱 I’m currently learning `vue`, `golang`, `java`, `python`
 - 💬 [Dreamhunter Blog](https://dreamhunter2333.com/)
