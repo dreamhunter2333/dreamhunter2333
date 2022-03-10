@@ -10,12 +10,20 @@ I'm Dreamhunter
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    39 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.89% 
+🌆 Daytime    238 commits    ███████░░░░░░░░░░░░░░░░░░   29.86% 
+🌃 Evening    362 commits    ███████████░░░░░░░░░░░░░░   45.42% 
+🌙 Night      158 commits    █████░░░░░░░░░░░░░░░░░░░░   19.82%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
 ```
 
 **I Mostly Code in Python** 
@@ -31,7 +39,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2022 12:47:31 UTC
+ Last Updated on 10/03/2022 12:57:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
