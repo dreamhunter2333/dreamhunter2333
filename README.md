@@ -27,7 +27,7 @@
 💬 [Dreamhunter Blog](https://dreamhunter2333.com/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -48,7 +48,7 @@
 ```
 
 
- Last Updated on 26/09/2022 16:09:09 UTC
+ Last Updated on 27/09/2022 16:11:36 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
