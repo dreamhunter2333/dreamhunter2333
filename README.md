@@ -29,26 +29,8 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    40 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44% 
-🌆 Daytime    329 commits    ███████░░░░░░░░░░░░░░░░░░   28.29% 
-🌃 Evening    605 commits    █████████████░░░░░░░░░░░░   52.02% 
-🌙 Night      189 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.25%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-```
-
-
- Last Updated on 01/01/2023 16:08:09 UTC
+ Last Updated on 02/01/2023 16:07:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
