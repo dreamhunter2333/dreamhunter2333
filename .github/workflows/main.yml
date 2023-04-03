@@ -24,3 +24,9 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           IGNORED_REPOS: "flyme6-device-bacon, flyme6-device-h830, flyme6-device-oneplus3, Lenovo_G40_70M_EFI, Shinelon_YAO_7000"
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
