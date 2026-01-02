@@ -37,24 +37,8 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-🌆 Daytime                2238 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
-🌃 Evening                2449 commits        ███████████░░░░░░░░░░░░░░   42.38 % 
-🌙 Night                  843 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
-
-
- Last Updated on 01/01/2026 16:13:52 UTC
+ Last Updated on 02/01/2026 16:13:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
