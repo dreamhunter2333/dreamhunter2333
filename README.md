@@ -35,26 +35,10 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 💬 [Dreamhunter Blog](https://dreamhunter2333.com/)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                699 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-🌆 Daytime                3958 commits        █████████░░░░░░░░░░░░░░░░   35.38 % 
-🌃 Evening                4711 commits        ███████████░░░░░░░░░░░░░░   42.11 % 
-🌙 Night                  1820 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-```
-
-
- Last Updated on 14/05/2026 16:56:22 UTC
+ Last Updated on 15/05/2026 16:52:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![jinmu333's github stats](https://github-readme-stats.vercel.app/api?username=jinmu333&show_icons=true&theme=vue-dark)
